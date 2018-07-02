@@ -1,0 +1,10 @@
+Employee _ Truth Or Bluff 
+
+We are using various ML regression algorithms to predict an employee's salary based on 
+his/her position at previous organisation and find out if he/she is bluffing .
+
+
+ML Rregression Techniques :
+1. Support Vector Regression
+2.Decision Tree Regression
+3.Rrandom Forest Regression
