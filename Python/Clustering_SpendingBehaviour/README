@@ -1,0 +1,8 @@
+Clustering _ Spending Behaviour
+
+
+We are Clustering customers based on their spending patterns using the data which reveals their salaries,spending score .
+
+Classification Algorithms :
+1.K-Means
+2.Hierarichal Clustering
