@@ -1,0 +1,10 @@
+Customer _ Spending Behaviour
+
+We are classifying cutomers based on their spending patterns using the data which reveals their salaries,age,purchasing history .
+
+Classification Algorithms :
+1.K-NN
+2.SVM
+3.Decision Trees
+4.Random Forest
+5.Naive Bayes
