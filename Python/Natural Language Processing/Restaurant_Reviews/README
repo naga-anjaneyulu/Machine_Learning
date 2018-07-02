@@ -1,0 +1,7 @@
+Restaraunt Reviews
+
+
+We train our model with more than a 1000 customer reviews for a restaurant and perform sentimental analysis after
+preprocessing our data by removing stop words , stemming and building a corpus.
+We use Naive Bayes for training our model .
+
