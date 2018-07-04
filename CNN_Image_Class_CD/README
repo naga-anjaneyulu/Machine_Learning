@@ -1,0 +1,6 @@
+Convolutional Neural Network 
+
+We have built a CNN which is trained on a larget set of over 20000 images of cats and dogs and
+then classifies new images as either cats or dogs with over 89 % accuaracy .
+
+Data - https://www.kaggle.com/c/dogs-vs-cats
