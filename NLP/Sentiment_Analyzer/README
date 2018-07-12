@@ -3,3 +3,6 @@ Sentiment analyzer for electronic item reviews purchased on Amazon
  We have developed feature vectors for all the reviews by mapping the tokens to vectors, trained our
  model using Logistic regression(Can use AdaBosst also) and classified a new review as either positive 
  or negative .
+
+
+Data link - http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
