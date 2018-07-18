@@ -8,7 +8,7 @@ Sentiment analyzer for electronic item reviews purchased on Amazon
 Data link - http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
 
 
-Results :
+Results : <br />
 Classification Rate : 0.58 <br />
 picture 0.5726007275875461 <br />
 ha 0.7235080868848079 <br />
