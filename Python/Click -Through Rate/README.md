@@ -6,3 +6,4 @@ clicked by an user and thus strive for an optimised solution .
 Techniques :
 1.Upper Confidence Bound
 2.Thompson Sampling 
+
