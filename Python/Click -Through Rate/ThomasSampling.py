@@ -39,4 +39,8 @@ plt.title('Histogram of ads selections')
 plt.xlabel('Ads')
 plt.ylabel('No. of times each ad was selected')
 plt.show()
+
+
+
+
    
